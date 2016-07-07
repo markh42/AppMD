@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mark App</string>
+    <string name="fullNamePlaceholder">Full Name</string>
+    <string name="mainTelephone">Telephone</string>
+    <string name="email">Email</string>
+    <string name="description">Description</string>
+    <string name="contactDescription">Contact Description</string>
+    <string name="birthDate">Birth Date</string>
+    <string name="clickForDate">click for date</string>
+    <string name="nextButton">Next</string>
+    <string name="msgErrorEmail">Email Incorrect</string>
+    <string name="msgDateEmail">Date Incorrect</string>
+    <string name="msgErrorName">Name is a mandatory field</string>
+    <string name="pName">name</string>
+    <string name="pDate">date</string>
+    <string name="pDescription">description</string>
+    <string name="pTelephone">telephone</string>
+    <string name="pEmail">email</string>
+    <string name="confirm">Confirm</string>
+    <string name="editButton">Edit</string>
+</resources>
